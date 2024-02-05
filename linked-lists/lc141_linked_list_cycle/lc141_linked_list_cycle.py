@@ -1,5 +1,5 @@
 from typing import Optional
-from data_structures.linked_list import ListNode
+from lib.linked_list import ListNode
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:

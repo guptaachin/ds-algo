@@ -2,7 +2,7 @@
 # Change it to fit your test case.
 import lc141_linked_list_cycle
 import pytest
-from data_structures.linked_list import LinkedList
+from lib.linked_list import LinkedList
 
 # create no loop linked list
 no_loop_ll = LinkedList([1,2,3,4])
