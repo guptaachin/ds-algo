@@ -18,13 +18,19 @@ def validate_topic(topic):
 
 def create_topic_folder(topic):
     if not os.path.exists(topic):
+        print(f"Dir {topic} created.")
         os.makedirs(topic)
+    else:
+        print(f"Dir {topic} already exists. Skipping creation.")
 
 def create_question_folder(topic, question):
     question_folder = ''.join(c for c in question if c.isalnum() or c == '_' or c == '-')
     question_path = os.path.join(topic, question_folder)
     if not os.path.exists(question_path):
+        print(f"Dir {question_path} created.")
         os.makedirs(question_path)
+    else:
+        print(f"Dir {question_path} already exists. Skipping creation.")
     return question_folder
 
 def render_code_file(topic_folder_name, question_folder, problem_name):
