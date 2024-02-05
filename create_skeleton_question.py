@@ -46,8 +46,9 @@ class Solution:
         # Ensure that the directory structure leading to the file exists
         os.makedirs(os.path.dirname(code_file_path), exist_ok=True)
 
-        with open(code_file_path, 'w') as test_file:
-            test_file.write(code_file_content)
+        with open(code_file_path, 'w') as code_file:
+            code_file.write(code_file_content)
+        print(f"File '{code_file_path}' created.")
     else:
         print(f"File '{code_file_path}' already exists. Skipping creation.")
 
@@ -77,12 +78,12 @@ def test_problem(input_1, input_2, output):
     # Check if the file already exists
     test_file_path = os.path.join(topic_folder_name, question_folder, f"{problem_name}_test.py")
     if not os.path.exists(test_file_path):
-
         # Ensure that the directory structure leading to the file exists
         os.makedirs(os.path.dirname(test_file_path), exist_ok=True)
 
         with open(test_file_path, 'w') as test_file:
             test_file.write(test_file_content)
+        print(f"File '{test_file_path}' created.")
     else:
         print(f"File '{test_file_path}' already exists. Skipping creation.")
 
@@ -124,6 +125,7 @@ Complexity:
 
         with open(md_file_path, 'w') as md_file:
             md_file.write(md_file_content)
+        print(f"File '{md_file_path}' created.")
     else:
         print(f"File '{md_file_path}' already exists. Skipping creation.")
 
