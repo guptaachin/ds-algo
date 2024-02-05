@@ -97,7 +97,7 @@ Python
     - [Code file]({problem_name}.py)  
     - [Test file]({problem_name}_test.py)
 
-Tags: adhoc, bit
+Tags: {topic_folder_name}, easy
 
 Description:
 
