@@ -69,6 +69,7 @@ import pytest
     ]
 )
 
+# This test will run once per test case
 def test_problem(input_1, input_2, output):
     s = {problem_name}.Solution()
     # Call your program here. For example:
