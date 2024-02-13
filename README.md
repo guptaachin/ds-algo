@@ -7,6 +7,14 @@
 | 1   | Score After Flipping Matrix                     | Medium | [lc861.md](./arrays/lc861_score_after_flipping_matrix/lc861.md)                                      |
 | 2   | Divide Arrays into Arrays With Max Difference   | Medium | [lc2966.md](./arrays/lc2966_divide_arrays_into_arrays_with_max_difference/lc2966.md)                |
 
+
+#### Dynamic Programming
+
+| Sno | Question                              | Level | Link                                                                                                     |
+|-----|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
+| 1   | Climbing Stairs | Easy  | [lc70_climbing_stairs.md](./dynamic-programming/lc70_climbing_stairs/lc70_climbing_stairs.md) |
+| 2   | House Robber | Medium  | [lc198_house_robber.md](./dynamic-programming/lc198_house_robber/lc198_house_robber.md) |
+
 #### Binary Trees 🌳
 
 | Sno | Question                              | Level | Link                                                                                                     |
