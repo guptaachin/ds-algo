@@ -14,7 +14,7 @@ Questions:
 
 Complexity:
 1 DP
-- Time: O(n^2) # n is length of characters in string
+- Time: O($n^2$) # n is length of characters in string
 - Space: O(n)
 
 Hand Writes

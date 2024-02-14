@@ -8,13 +8,9 @@ Python
 
 Tags: dynamic-programming, medium
 
-Description:
-
-- Point 1
-
 Questions:
 
-- Point 1
+- 
 
 Observations:
 

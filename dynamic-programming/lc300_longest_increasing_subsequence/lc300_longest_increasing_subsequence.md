@@ -6,7 +6,7 @@ Python
     - [Code file](lc300_longest_increasing_subsequence.py)  
     - [Test file](lc300_longest_increasing_subsequence_test.py)
 
-Tags: dynamic-programming, easy
+Tags: dynamic-programming, medium
 
 Questions:
 
