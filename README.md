@@ -8,7 +8,7 @@
 | 2   | Divide Arrays into Arrays With Max Difference   | Medium | [lc2966.md](./arrays/lc2966_divide_arrays_into_arrays_with_max_difference/lc2966.md)                |
 
 
-#### Dynamic Programming
+#### Dynamic Programming 🧩
 
 | Sno | Question                              | Level | Link                                                                                                     |
 |-----|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
