@@ -1,4 +1,4 @@
-import lc_322_coin_change
+import lc322_coin_change
 import pytest
 
 @pytest.mark.parametrize(
@@ -12,6 +12,6 @@ import pytest
 
 # This test will run once per test case
 def test_problem(coins, amount, output):
-    s = lc_322_coin_change.Solution()
+    s = lc322_coin_change.Solution()
     calculated_res = s.coinChange(coins, amount)
     assert calculated_res == output
