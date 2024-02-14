@@ -24,3 +24,7 @@ Complexity:
 
 - Time:
 - Space:
+
+Hand Writes
+![alt text](lc139_wb1.jpeg "Word Break Recursion")
+![alt text](lc_139_wb2.jpeg "Word Break DP")
