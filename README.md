@@ -14,6 +14,9 @@
 |-----|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
 | 1   | Climbing Stairs | Easy  | [lc70_climbing_stairs.md](./dynamic-programming/lc70_climbing_stairs/lc70_climbing_stairs.md) |
 | 2   | House Robber | Medium  | [lc198_house_robber.md](./dynamic-programming/lc198_house_robber/lc198_house_robber.md) |
+| 3   | Word Break | Medium  | [lc139_word_break.md](./dynamic-programming/lc139_word_break/lc139_word_break.md) |
+| 4   | Coin Change | Medium  | [lc322_coin_change.md](./dynamic-programming/lc322_coin_change/lc322_coin_change.md) |
+| 5   | Longest Increasing Subsequence | Medium  | [lc300_longest_increasing_subsequence.md](./dynamic-programming/lc300_longest_increasing_subsequence/lc300_longest_increasing_subsequence.md) |
 
 #### Binary Trees 🌳
 
