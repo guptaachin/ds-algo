@@ -98,7 +98,7 @@ Python
     - [Code file]({problem_name}.py)  
     - [Test file]({problem_name}_test.py)
 
-Tags: {topic_folder_name}, easy
+Tags: {topic_folder_name}, medium
 
 Description:
 
