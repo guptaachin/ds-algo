@@ -8,22 +8,14 @@ Python
 
 Tags: dynamic-programming, medium
 
-Description:
-
-- Point 1
-
 Questions:
 
-- Point 1
-
-Observations:
-
-- Point 1
+- How do I avoid missing test cases while thinking about DP ?
 
 Complexity:
-
-- Time:
-- Space:
+1 DP
+- Time: O(n^2) # n is length of characters in string
+- Space: O(n)
 
 Hand Writes
 ![alt text](../../images/lc139_wb1.jpeg "Word Break Recursion")

@@ -8,22 +8,15 @@ Python
 
 Tags: dynamic-programming, easy
 
-Description:
-
-- Point 1
-
 Questions:
 
-- Point 1
-
-Observations:
-
-- Point 1
+- Can I do something with the direction of iteration ?
+- How do I not miss test cases ?
 
 Complexity:
-
-- Time:
-- Space:
+1DP
+- Time: O($n^2$)
+- Space: O(n)
 
 Hand Writes
 ![alt text](../../images/lc_300_lis_1.png "LIS Rec")
