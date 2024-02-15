@@ -117,7 +117,7 @@ Complexity:
 - Time:
 - Space:
 """
-    md_file_path = os.path.join(topic_folder_name, question_folder, f"{problem_name}.md")
+    md_file_path = os.path.join(topic_folder_name, question_folder, f"README.md")
 
     # Check if the file already exists
     if not os.path.exists(md_file_path):
