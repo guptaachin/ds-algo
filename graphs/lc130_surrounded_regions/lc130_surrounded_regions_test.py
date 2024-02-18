@@ -4,18 +4,15 @@ import lc130_surrounded_regions
 import pytest
 
 @pytest.mark.parametrize(
-    ("input_1", "input_2", "output"),
+    ("board", "output"),
     [
-        # parametrized test case 1
-        ([1, 3, 4, 8, 7, 9, 3, 5, 1], 2, [[1, 1, 3], [3, 4, 5], [7, 8, 9]]),
-        # parametrized test case 2
-        ([1,3,3,2,7,3], 2, []),
+        ([["X","X","X","X"],["X","O","O","X"],["X","X","O","X"],["X","O","X","X"]], 
+         [["X","X","X","X"],["X","X","X","X"],["X","X","X","X"],["X","O","X","X"]]),
     ]
 )
 
 # This test will run once per test case
-def test_problem(input_1, input_2, output):
+def test_problem(board, output):
     s = lc130_surrounded_regions.Solution()
-    # Call your program here. For example:
-    # calculated_res = s.fn_name(input_1, input_2)
-    # assert calculated_res == output
+    s.solve(board)
+    assert board == output
