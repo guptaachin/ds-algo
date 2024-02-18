@@ -10,5 +10,5 @@ Tags: graphs, medium
 
 Complexity:
 
-- Time: 
-- Space:
+- Time: O(m*n) 
+- Space: O(m*n)
