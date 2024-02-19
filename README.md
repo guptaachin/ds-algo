@@ -24,6 +24,13 @@
 |-----|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
 | 1   | Maximum Depth of Binary Tree         | Easy  | [readme](./binary-trees/lc104_maximum_depth_of_binary_tree/README.md) |
 
+#### Graphs 🟣🔗🟡
+
+| Sno | Question                                    | Level  | Link                                                                                           |
+|-----|---------------------------------------------|--------|------------------------------------------------------------------------------------------------|
+| 1   | Number of Islands  | Medium | [readme](./graphs/lc200_number_of_islands/README.md) |
+| 2   | Surrounded Regions | Medium | [readme](./graphs/lc130_surrounded_regions/README.md) |
+
 #### Linked Lists 🔗
 
 | Sno | Question                                    | Level  | Link                                                                                           |
@@ -40,3 +47,10 @@
 | 3   | Min Stack                                     | Medium | [readme](./stacks/lc155_min_stack/README.md)                      |
 | 4   | Evaluate Reverse Polish Notation              | Medium | [readme](./stacks/lc150_evaluate_reverse_polish_notation/README.md) |
 | 5   | Basic Calculator                              | Hard   | [readme](./stacks/lc224_basic_calculator/README.md) |
+
+#### Trie 🖇️📚
+
+| Sno | Question                                    | Level  | Link                                                                                           |
+|-----|---------------------------------------------|--------|------------------------------------------------------------------------------------------------|
+| 1   | Implement Trie (Prefix Tree) |Medium | [readme](./trie/208_implement_trie_prefix_tree/README.md) |
+
