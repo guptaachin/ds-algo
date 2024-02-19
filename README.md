@@ -7,7 +7,7 @@
  - [Graphs](#graphs-)
  - [Linked Lists](#linked-lists-)
  - [Stacks](#stacks-)
- - [Trie](#trie-)
+ - [Trie](#trie-%EF%B8%8F)
 
 #### Arrays 📊
 
