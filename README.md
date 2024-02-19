@@ -1,4 +1,13 @@
-### Data Structures and Algorithms 🛠️
+## Data Structures and Algorithms 🛠️
+
+### Table of Contents
+ - [Arrays](#arrays-)
+ - [Dynamic Programming](#dynamic-programming-)
+ - [Binary Trees](#binary-trees-)
+ - [Graphs](#graphs-)
+ - [Linked Lists](#linked-lists-)
+ - [Stacks](#stacks-)
+ - [Trie](#trie-%EF%B8%8F)
 
 #### Arrays 📊
 
