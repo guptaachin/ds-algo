@@ -2,12 +2,12 @@
 
 ### Table of Contents
  - [Arrays](#arrays-)
- - [Dynamic Programming](#dynamic-programming)
- - [Binary Trees](#binary-trees)
- - [Graphs](#graphs)
- - [Linked Lists](#linked-lists)
- - [Stacks](#stacks)
- - [Trie](#trie)
+ - [Dynamic Programming](#dynamic-programming-)
+ - [Binary Trees](#binary-trees-)
+ - [Graphs](#graphs-)
+ - [Linked Lists](#linked-lists-)
+ - [Stacks](#stacks-)
+ - [Trie](#trie-)
 
 #### Arrays 📊
 
