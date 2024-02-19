@@ -2,7 +2,7 @@ import os
 import sys
 import re
 
-allowed_topics = ["stacks", "binary-trees", "linked-lists", "graphs", "dynamic-programming", ]
+allowed_topics = ['binary-trees', 'dynamic-programming', 'graphs', 'linked-lists', 'stacks', 'trie']
 
 def validate_name(name):
     if not all(c.isalnum() or c == '_' or c == '-' for c in name):
