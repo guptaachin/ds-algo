@@ -16,20 +16,19 @@ def test_problem(operations, entries, output):
     stk = None
     cal_output = []
     for index, operation in enumerate(operations):
-        match operation:
-            case "MinStack":
-                stk = lc155.MinStack()
-                cal_output.append(None)
-            case "push":
-                stk.push(entries[index][0])
-                cal_output.append(None)
-            case "pop":
-                pop_ = stk.pop()
-                cal_output.append(pop_)
-            case "top":
-                top_ = stk.top()
-                cal_output.append(top_)
-            case "getMin":
-                min_ = stk.getMin()
-                cal_output.append(min_)
+        if operation == "MinStack":
+            stk = lc155.MinStack()
+            cal_output.append(None)
+        elif operation == "push":
+            stk.push(entries[index][0])
+            cal_output.append(None)
+        elif operation == "pop":
+            pop_ = stk.pop()
+            cal_output.append(pop_)
+        elif operation == "top":
+            top_ = stk.top()
+            cal_output.append(top_)
+        elif operation == "getMin":
+            min_ = stk.getMin()
+            cal_output.append(min_)
     assert cal_output == output
