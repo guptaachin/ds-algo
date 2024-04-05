@@ -1,7 +1,7 @@
 ## Details for question
 
 Links  
-[Question](problem-link-here) <br>
+[Question](https://leetcode.com/problems/make-the-string-great/description/) <br>
 Python  
  - [Code file](lc1544_make_the_string_great.py)  
  - [Test file](lc1544_make_the_string_great_test.py)
