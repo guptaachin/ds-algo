@@ -2,15 +2,15 @@
 
 ### Table of Contents
 
-- [Arrays](#arrays-)
-- [Dynamic Programming](#dynamic-programming-)
-- [Binary Trees](#binary-trees-)
-- [Graphs](#graphs-)
-- [Linked Lists](#linked-lists-)
-- [Stacks](#stacks-)
-- [Trie](#trie-)
+- [Arrays](#arrays)
+- [Dynamic Programming](#dynamic-programming)
+- [Binary Trees](#binary-trees)
+- [Graphs](#graphs)
+- [Linked Lists](#linked-lists)
+- [Stacks](#stacks)
+- [Trie](#trie)
 
-### Arrays 📊
+### Arrays
 
 #### Easy
 
@@ -30,7 +30,7 @@
 | Sno | Question                         | Link                                                                |
 | --- | -------------------------------- | ------------------------------------------------------------------- |
 
-### Dynamic Programming 🧩
+### Dynamic Programming
 
 #### Easy
 
@@ -52,7 +52,7 @@
 | Sno | Question                         | Link                                                                |
 | --- | -------------------------------- | ------------------------------------------------------------------- |
 
-### Binary Trees 🌳
+### Binary Trees
 
 #### Easy
 
@@ -70,7 +70,7 @@
 | Sno | Question                         | Link                                                                |
 | --- | -------------------------------- | ------------------------------------------------------------------- |
 
-### Graphs 🟣🔗🟡
+### Graphs
 
 #### Easy
 
@@ -89,7 +89,7 @@
 | Sno | Question                         | Link                                                                |
 | --- | -------------------------------- | ------------------------------------------------------------------- |
 
-### Linked Lists 🔗
+### Linked Lists
 
 #### Easy
 
@@ -108,7 +108,7 @@
 | Sno | Question                         | Link                                                                |
 | --- | -------------------------------- | ------------------------------------------------------------------- |
 
-### Stacks 📚
+### Stacks
 
 #### Easy
 | Sno | Question                         | Link                                                                |
@@ -130,7 +130,7 @@
 | --- | ---------------- | --------------------------------------------------- |
 | 1   | Basic Calculator | [readme](./stacks/lc224_basic_calculator/README.md) |
 
-#### Trie 🖇️📚
+#### Trie
 
 #### Easy
 
