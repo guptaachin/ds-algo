@@ -35,17 +35,18 @@ No hard difficulty questions in Arrays.
 
 #### Easy
 
-No easy difficulty questions in Dynamic Programming.
+| Sno | Question                              | Level | Link                                                                                                     |
+|-----|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
+| 1   | Climbing Stairs | Medium  | [readme](./dynamic-programming/lc70_climbing_stairs/README.md) |
 
 #### Medium
 
 | Sno | Question                              | Level | Link                                                                                                     |
 |-----|---------------------------------------|-------|----------------------------------------------------------------------------------------------------------|
-| 1   | Climbing Stairs | Medium  | [readme](./dynamic-programming/lc70_climbing_stairs/README.md) |
-| 2   | House Robber | Medium  | [readme](./dynamic-programming/lc198_house_robber/README.md) |
-| 3   | Word Break | Medium  | [readme](./dynamic-programming/lc139_word_break/README.md) |
-| 4   | Coin Change | Medium  | [readme](./dynamic-programming/lc322_coin_change/README.md) |
-| 5   | Longest Increasing Subsequence | Medium  | [readme](./dynamic-programming/lc300_longest_increasing_subsequence/README.md) |
+| 1   | House Robber | Medium  | [readme](./dynamic-programming/lc198_house_robber/README.md) |
+| 2   | Word Break | Medium  | [readme](./dynamic-programming/lc139_word_break/README.md) |
+| 3   | Coin Change | Medium  | [readme](./dynamic-programming/lc322_coin_change/README.md) |
+| 4   | Longest Increasing Subsequence | Medium  | [readme](./dynamic-programming/lc300_longest_increasing_subsequence/README.md) |
 
 #### Hard
 
