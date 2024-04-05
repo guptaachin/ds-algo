@@ -16,11 +16,9 @@
 
 | Sno | Question                         | Level | Link                                                                     |
 | --- | -------------------------------- | ----- | ------------------------------------------------------------------------ |
-| 1   | Score After Flipping Matrix      | Easy  | [readme](./arrays/lc861_score_after_flipping_matrix/README.md)           |
-| 2   | Maximum Depth of Binary Tree     | Easy  | [readme](./binary-trees/lc104_maximum_depth_of_binary_tree/README.md)    |
-| 3   | Linked List Cycle                | Easy  | [readme](./linked-lists/lc141_linked_list_cycle/README.md)               |
-| 4   | Remove Nth Node From End of List | Easy  | [readme](./linked-lists/lc19_remove_nth_node_from_end_of_list/README.md) |
-| 5   | Valid Parentheses                | Easy  | [readme](./stacks/lc20_valid_parantheses/README.md)                      |
+| 1   | Linked List Cycle                | Easy  | [readme](./linked-lists/lc141_linked_list_cycle/README.md)               |
+| 2   | Remove Nth Node From End of List | Easy  | [readme](./linked-lists/lc19_remove_nth_node_from_end_of_list/README.md) |
+| 3   | Valid Parentheses                | Easy  | [readme](./stacks/lc20_valid_parantheses/README.md)                      |
 
 #### Medium
 
@@ -28,11 +26,11 @@
 | --- | --------------------------------------------- | ------ | --------------------------------------------------------------------------------- |
 | 1   | Divide Arrays into Arrays With Max Difference | Medium | [readme](./arrays/lc2966_divide_arrays_into_arrays_with_max_difference/README.md) |
 | 2   | Score After Flipping Matrix                   | Medium | [readme](./arrays/lc861_score_after_flipping_matrix/README.md)                    |
-| 3   | Maximum Depth of Binary Tree                  | Medium | [readme](./binary-trees/lc104_maximum_depth_of_binary_tree/README.md)             |
 
 #### Hard
 
-No hard difficulty questions in Arrays.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 ### Dynamic Programming 🧩
 
@@ -53,7 +51,8 @@ No hard difficulty questions in Arrays.
 
 #### Hard
 
-No hard difficulty questions in Dynamic Programming.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 ### Binary Trees 🌳
 
@@ -65,17 +64,20 @@ No hard difficulty questions in Dynamic Programming.
 
 #### Medium
 
-No medium difficulty questions in Binary Trees.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 #### Hard
 
-No hard difficulty questions in Binary Trees.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 ### Graphs 🟣🔗🟡
 
 #### Easy
 
-No easy difficulty questions in Graphs.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 #### Medium
 
@@ -86,7 +88,8 @@ No easy difficulty questions in Graphs.
 
 #### Hard
 
-No hard difficulty questions in Graphs.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 ### Linked Lists 🔗
 
@@ -108,10 +111,8 @@ No hard difficulty questions in Linked Lists.
 ### Stacks 📚
 
 #### Easy
-
-| Sno | Question          | Level | Link                                                |
-| --- | ----------------- | ----- | --------------------------------------------------- |
-| 1   | Valid Parentheses | Easy  | [readme](./stacks/lc20_valid_parantheses/README.md) |
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 #### Medium
 
@@ -131,7 +132,8 @@ No hard difficulty questions in Linked Lists.
 
 #### Easy
 
-No easy difficulty questions in Linked Lists.
+| Sno | Question                         | Level  | Link                                                                |
+| --- | -------------------------------- | ------ | ------------------------------------------------------------------- |
 
 #### Medium
 
