@@ -1,5 +1,5 @@
 ## Data Structures and Algorithms 🛠️
-
+![CI](https://github.com/guptaachin/tracing-with-open-telemetry/actions/workflows/python_tests.yml/badge.svg)
 ### Table of Contents
 
 - [Arrays](#arrays)
