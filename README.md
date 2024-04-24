@@ -37,6 +37,7 @@
 | Sno | Question        | Link                                                           |
 | --- | --------------- | -------------------------------------------------------------- |
 | 1   | Climbing Stairs | [readme](./dynamic-programming/lc70_climbing_stairs/README.md) |
+| 2   | Tribonacci number | [readme](./dynamic-programming/lc1137_nth_tribonacci_number) |
 
 #### Medium
 
@@ -83,6 +84,7 @@
 | --- | ------------------ | ----------------------------------------------------- |
 | 1   | Number of Islands  | [readme](./graphs/lc200_number_of_islands/README.md)  |
 | 2   | Surrounded Regions | [readme](./graphs/lc130_surrounded_regions/README.md) |
+| 3   | Minimum Height Trees | [readme](./graphs/lc_310_minimum_height_trees) |
 
 #### Hard
 
