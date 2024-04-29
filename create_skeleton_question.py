@@ -61,7 +61,7 @@ from {problem_name} import Solution
 class TestSolution(unittest.TestCase):
     def test_minOperations(self):
         s = Solution()
-        assert 2 == s.minOperations([2,1,3,4], 1)
+        self.assertEqual(s.minOperations([2,1,3,4], 1), 2)
 
 if __name__ == "__main__":
     unittest.main()
@@ -125,7 +125,6 @@ if __name__ == "__main__":
         problem_name = get_problem_name(question_folder_name)
         render_code_file(topic_folder_name, question_folder, problem_name)
         render_test_file(topic_folder_name, question_folder, problem_name)
-        render_md_file(topic_folder_name, question_folder, problem_name)
         print("...Done...!")
     except ValueError as e:
         print(f"Error: {e}")
