@@ -2,7 +2,7 @@ import os
 import sys
 import re
 
-allowed_topics = ['binary-trees', 'dynamic-programming', 'graphs', 'linked-lists', 'stacks', 'trie']
+allowed_topics = ['arrays', 'binary-trees', 'dynamic-programming', 'graphs', 'linked-lists', 'stacks', 'trie']
 
 def validate_name(name):
     if not all(c.isalnum() or c == '_' or c == '-' for c in name):
@@ -123,6 +123,7 @@ if __name__ == "__main__":
         create_topic_folder(topic_folder_name)
         question_folder = create_question_folder(topic_folder_name, question_folder_name)
         problem_name = get_problem_name(question_folder_name)
+        render_md_file(topic_folder_name, question_folder, problem_name)
         render_code_file(topic_folder_name, question_folder, problem_name)
         render_test_file(topic_folder_name, question_folder, problem_name)
         print("...Done...!")
