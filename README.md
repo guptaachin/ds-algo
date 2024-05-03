@@ -26,6 +26,7 @@
 | 1   | Divide Arrays into Arrays With Max Difference | [readme](./arrays/lc2966_divide_arrays_into_arrays_with_max_difference/README.md) |
 | 2   | Score After Flipping Matrix                   | [readme](./arrays/lc861_score_after_flipping_matrix/README.md)                    |
 | 3   | Minimum Number of Operations to Make Array XOR Equal to K | [readme](./arrays/lc2997_min_ops_to_make_array_xor_eq_to_k/)                    |
+| 4   | Compare version numbers | [readme](./arrays/lc165_compare_version_numbers/README.md/)                    |
 
 #### Hard
 
